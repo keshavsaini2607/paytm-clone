@@ -1,5 +1,7 @@
 # paytm-clone
 Paytm website clone using html and tailwind css library
+#DEPLOYED URL
+https://paytm-clonek.netlify.app/
 
 #Tech used
 1. Html
